@@ -1,16 +1,37 @@
 # appdevelopmentapplications_aaysha
 
-A new Flutter project.
+Assignment for Internship Shortlisting:
 
+Title: Flutter 2D Editing Canvas
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+# Available Features
+-  Scribble.
+-  Draw Shapes (Line, Polygon, Ellipse and Rectangle).
+-  Eraser.
+-  shape fill and stroke size
+-  Undo and Redo
+-  Export as Image
+-  Text Editing and Image cropping *HomeScreen.dart
+-  contactus *home.dart
+   Api Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Additional features 
+-multi image selection and editing 
+- better design and important packages used.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+#📸 ScreenShots
+
+<img src="assets/screenshots/Capture1.PNG"/>
+<img src="assets/screenshots/Capture2.PNG"/>
+<img src="assets/screenshots/Capture3.PNG"/>
+<img src="assets/screenshots/Capture4.PNG"/>
+
+ Author(s)
+
+**Aaysha Shaikh K**
+
